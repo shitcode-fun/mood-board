@@ -1,0 +1,1 @@
+Build a Next.js app called MoodBoard AI where users enter a text prompt (e.g., ‘retro-futuristic Tokyo at night’) and the app generates a 3x3 grid of aesthetic images using an AI image generation API like DALL·E or Unsplash API for mockups. Allow users to save moodboards, rename them, and export as PNG or PDF. Use TailwindCSS for clean, responsive design.
